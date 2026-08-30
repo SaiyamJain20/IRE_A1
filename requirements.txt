@@ -1,0 +1,14 @@
+pandas
+polars
+pyarrow
+fastparquet
+notebook
+scikit-learn
+tqdm
+numpy
+faiss-cpu
+sentence-transformers
+rank-bm25
+nltk
+joblib
+torch
